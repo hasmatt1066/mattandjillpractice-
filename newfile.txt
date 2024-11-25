@@ -1,1 +1,3 @@
 this is a new file added by my friend
+I was able to pull this file down to my computer and edit it. 
+Now I am going to try to push the changes back to github. 
